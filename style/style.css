@@ -1,0 +1,27 @@
+li{
+    list-style: upper-alpha;
+}
+a{
+    color: red;
+    text-decoration: none;
+
+    text-transform: capitalize; /*lowercase , upercase*/
+}
+h1{
+    text-transform: uppercase;
+    opacity: 0.5;
+}
+
+p{
+    color: beige;
+}
+
+.black1{
+    color: black;
+}
+#dinner{
+    color: black;
+}
+h1{
+    list-style: circle;
+}
